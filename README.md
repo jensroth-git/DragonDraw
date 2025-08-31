@@ -71,5 +71,3 @@ This repo is here as a **beacon**: a logo, a vision, and a set of docs. If you w
 ## License
 
 MIT. Free for all, forever.
-
-```
