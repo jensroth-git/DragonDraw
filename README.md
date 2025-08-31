@@ -31,3 +31,45 @@ Think of it as Photoshop, Krita, and After Effects getting raided by ShaderToy, 
 - **Community-first**  
   - Share snippets like Strudel or Hydra.  
   - Remix, hack, and trade plugins.  
+
+---
+
+## Why?
+
+Because creative coding deserves better than screenshots from ShaderToy and half-baked Krita plugins.
+Because procedural artists deserve tools as flexible as their imagination.
+Because painting, coding, geometry, and AI shouldn’t live in separate silos.
+
+---
+
+## Roadmap (dream version)
+
+* v0.1 — Single canvas, one brush plugin, one shader filter.
+* v0.2 — Geometry brushes (splines, ropes).
+* v0.3 — Timeline with export to GIF.
+* v0.4 — Plugin registry.
+* v0.5 — Scene sharing + AI brush integration.
+
+---
+
+## State of Things
+
+⚠️ **This is an idea.** There is no working app yet.
+This repo is here as a **beacon**: a logo, a vision, and a set of docs. If you want to prototype, hack, or contribute, you’re welcome.
+
+---
+
+## Inspirations
+
+* [Hydra](https://hydra.ojack.xyz/) – live-coded visuals
+* [Strudel](https://strudel.tidalcycles.org/) – browser-based music coding
+* [Krita](https://krita.org/) – open-source painting
+* [ShaderToy](https://shadertoy.com/) – shader playground
+
+---
+
+## License
+
+MIT. Free for all, forever.
+
+```
