@@ -1,7 +1,7 @@
 
 
 # DragonDraw
-![logo](./images/logo.001.png)
+![logo](images/Logo.001.png)
 
 ## What is this?
 
