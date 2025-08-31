@@ -1,5 +1,3 @@
-
-
 # DragonDraw
 ![logo](images/Logo.png)
 
